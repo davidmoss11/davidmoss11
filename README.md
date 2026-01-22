@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I’m David Moss
 
-<!--
-**davidmoss11/davidmoss11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior Computer Science major building software systems that focus on practical logic, data handling, and real-world use cases. I like working on projects where I start with a problem, design a solution, and build it step by step while learning along the way.
 
-Here are some ideas to get you started:
+Most of my work is on school projects and personal tools — from rental systems to file integrity checkers, AI-powered tutors, and inventory managers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+**Languages:** Java, Python, C++  
+**Concepts:** OOP, data structures, algorithms, file I/O, basic security  
+**Tools:** Git & GitHub, command line, VS Code, IntelliJ
+
+## 📌 Pinned Projects
+
+Each of these showcases part of what I’ve learned — from backend logic to working with APIs and building usable tools.
+
+---
+
+## 📫 Find Me
+
+🔗 https://github.com/davidmoss11
+@ dmoss6@murraystate.edu 
+
+Reach out to my email for any more possible inquiries. 
